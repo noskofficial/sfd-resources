@@ -1,6 +1,6 @@
 [
   {
-    "time": "09:00 - 09:30",
+    "time": "09:00",
     "title": "Check-In & Registrations",
     "speaker": {
       "name": "NOSK Team",
@@ -11,8 +11,8 @@
     "link": "https://example.com/introduction-hello"
   },
   {
-    "time": "09:30 - 10:00",
-    "title": "Opening Ceremony",
+    "time": "10:00 - 10:15",
+    "title": "Opening Ceremony and ",
     "speaker": {
       "name": "Guests and Sponsors",
       "title": "Open Source Advocates and Supporters",
@@ -22,7 +22,7 @@
     "link": "https://example.com/opening-remarks"
   },
   {
-    "time": "10:00 - 10:30",
+    "time": "10:15 - 10:30",
     "title": "Opening Remarks",
     "speaker": {
       "name": "Er. Niranjan Khakurel",
@@ -36,18 +36,29 @@
     "time": "10:30 - 11:00",
     "title": "Keynote Address",
     "speaker": {
-      "name": "Mr. Hempal Shrestha",
-      "title": "Founding Member, FOSS NEPAL",
+      "name": "",
+      "title": "",
       "image": "https://via.placeholder.com/50"
     },
     "date": "Keynote",
     "link": "https://example.com/keynote-speaker"
   },
   {
-    "time": "11:00 - 12:00",
+    "time": "11:00 - 17:00",
+    "title": "Linux Distro",
+    "speaker": {
+      "name": "NOSK Team",
+      "title": "Linux Distribution",
+      "image": "https://via.placeholder.com/50"
+    },
+    "date": "Demo",
+    "link": "https://example.com/distro-demo"
+  },
+  {
+    "time": "11:00 - 13:00",
     "title": "Capture the Flag (CTF) Competition",
     "speaker": {
-      "name": "Bikram Kharal, Rajan Kshedal",
+      "name": "",
       "title": "Cybersecurity Experts",
       "image": "https://via.placeholder.com/50"
     },
@@ -55,19 +66,30 @@
     "link": "https://example.com/capture-the-flag"
   },
   {
-    "time": "11:00 - 12:00",
-    "title": "Cybersecurity Insights",
+    "time": "11:00 - 15:00",
+    "title": "Open Source Project Exhibition",
     "speaker": {
-      "name": "Er. Kumar Pudasaini",
-      "title": "Global Cybersecurity Community Forum",
+      "name": "Project Exhibitors",
+      "title": "Open Source Innovators",
       "image": "https://via.placeholder.com/50"
     },
-    "date": "Talk 1",
+    "date": "Exhibition",
     "link": "https://example.com/capture-the-flag"
   },
   {
-    "time": "11:00 - 12:00",
-    "title": "NOSKODE 5.0",
+    "time": "11:00 - 14:00",
+    "title": "VSCode Dev Day",
+    "speaker": {
+      "name": "",
+      "title": "Code with Co-pilot",
+      "image": "https://via.placeholder.com/50"
+    },
+    "date": "Session",
+    "link": "https://example.com/games-and-fun"
+  },
+  {
+    "time": "12:00 - 14:00",
+    "title": "NOSKODE 6.0",
     "speaker": {
       "name": "NOSKODE Host",
       "title": "NOSK Contributer",
@@ -76,97 +98,9 @@
     "date": "Competition",
     "link": "https://example.com/capture-the-flag"
   },
-  {
-    "time": "11:00 - 14:00",
-    "title": "Linux Distro & Open Source Projects Demo",
-    "speaker": {
-      "name": "NOSK & Open Source Contributors",
-      "title": "Linux & Open Source Specialists",
-      "image": "https://via.placeholder.com/50"
-    },
-    "date": "Demo",
-    "link": "https://example.com/distro-demo"
-  },
-  {
-    "time": "12:00 - 12:30",
-    "title": "Games and Fun",
-    "speaker": {
-      "name": "Various Hosts",
-      "title": "Win Prizes, T-Shirts, and More",
-      "image": "https://via.placeholder.com/50"
-    },
-    "date": "Fun",
-    "link": "https://example.com/games-and-fun"
-  },
-  {
-    "time": "12:30 - 13:00",
-    "title": "Lunch Break",
-    "speaker": {
-      "name": "Break Time",
-      "title": "",
-      "image": ""
-    },
-    "date": "Break",
-    "link": "N/A"
-  },
-  {
-    "time": "13:00 - 14:00",
-    "title": "Open Source Project Exhibition",
-    "speaker": {
-      "name": "Various Exhibitors",
-      "title": "Open Source Innovators",
-      "image": "https://via.placeholder.com/50"
-    },
-    "date": "Exhibition",
-    "link": "https://example.com/open-source-exhibition"
-  },
-  {
-    "time": "14:00 - 14:30",
-    "title": "Open Source Journey",
-    "speaker": {
-      "name": "Er. Bikalpa Dhakal",
-      "title": "Software Engineer, Canonical",
-      "image": "https://via.placeholder.com/50"
-    },
-    "date": "Talk 2",
-    "link": "https://example.com/pioneering-perspectives"
-  },
-  {
-    "time": "14:30 - 14:45",
-    "title": "Giveaway Results",
-    "speaker": {
-      "name": "Mudita Store",
-      "title": "Win Headphones, Pendrives, and Mousepads",
-      "image": "https://via.placeholder.com/50"
-    },
-    "date": "Giveaway",
-    "link": "https://example.com/giveaway-results"
-  },
-  {
-    "time": "14:45 - 15:15",
-    "title": "Open Source & SigNoz",
-    "speaker": {
-      "name": "Er. Prashant Sahi",
-      "title": "Maintainer, SigNoz",
-      "image": "https://via.placeholder.com/50"
-    },
-    "date": "Talk 3",
-    "link": "https://example.com/innovation-spotlight"
-  },
-  {
-    "time": "15:15 - 16:00",
-    "title": "Awarding and Certification Ceremony",
-    "speaker": {
-      "name": "Certificates and Token Distribution",
-      "title": "Sponsors, Community Partners, and Enthusiasts",
-      "image": "https://via.placeholder.com/50"
-    },
-    "date": "Awards",
-    "link": "https://example.com/awarding-certification"
-  },
-  {
-    "time": "16:00 - 16:45",
-    "title": "Open Floor Discussion",
+    {
+    "time": "15:00 - 16:00",
+    "title": "Panel Discussion",
     "speaker": {
       "name": "Community Leaders",
       "title": "Open Floor Moderators",
@@ -176,47 +110,14 @@
     "link": "https://example.com/opensource-chitchats"
   },
   {
-    "time": "16:45 - 17:00",
-    "title": "Photo Shoot",
+    "time": "16:00 - 17:00",
+    "title": "Ending Session",
     "speaker": {
-      "name": "All Participants",
-      "title": "Break Time",
+      "name": "NOSK Team",
+      "title": "Winner announcement, Award & Certificate Distribution and Ending Ceremony",
       "image": "https://via.placeholder.com/50"
     },
-    "date": "Photos",
-    "link": "N/A"
-  },
-  {
-    "time": "17:00 - 17:15",
-    "title": "Alumni Meetup and Shoutout",
-    "speaker": {
-      "name": "NOSK Alumni",
-      "title": "Open Source Enthusiasts",
-      "image": "https://via.placeholder.com/50"
-    },
-    "date": "Shoutout",
-    "link": "https://example.com/alumni-meetup"
-  },
-  {
-    "time": "17:15 - 18:00",
-    "title": "Jamming Session",
-    "speaker": {
-      "name": "Manish Poudel",
-      "title": "Music Extravaganza",
-      "image": "https://via.placeholder.com/50"
-    },
-    "date": "Music",
-    "link": "https://example.com/jamming-session"
-  },
-  {
-    "time": "18:00 - 19:00",
-    "title": "Candle Light Celebration & Farewell",
-    "speaker": {
-      "name": "Event Team & Alumni",
-      "title": "Event Facilitators and NOSK Alumni",
-      "image": "https://via.placeholder.com/50"
-    },
-    "date": "Celebration",
-    "link": "https://example.com/candle-light-celebration"
+    "date": "Ending",
+    "link": "https://example.com/giveaway-results"
   }
 ]
