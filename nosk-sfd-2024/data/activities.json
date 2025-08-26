@@ -15,7 +15,7 @@
             "image": "/assets/activities/ctf.svg",
             "button" : {
                 "title": "REGISTER NOW",
-                "link": "https://forms.gle/Yvt6B7EGniR47ukB9"
+                "link": "https://forms.gle/dF1NK3XnSGC4Wv5AA"
 	    }
         },
         {
@@ -24,7 +24,7 @@
             "image": "/assets/shared/nosk_logo.svg",
             "button" : {
                 "title": "REGISTER NOW",
-                "link": "https://forms.gle/ahaZGnoJhXT5jU3q8"
+                "link": "https://forms.gle/EMyYESqFnf4DavD46"
             }
         },
         {
@@ -33,7 +33,7 @@
             "image": "/assets/activities/exhibition.svg",
             "button" : {
                 "title": "REGISTER NOW",
-                "link": "https://forms.gle/ZmT2eDPqyLoLj5Sd6"
+                "link": "https://forms.gle/c3ASkmb7cEcBXRUi9"
             }
         }
     ],
