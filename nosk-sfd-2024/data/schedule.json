@@ -1,6 +1,6 @@
 [
   {
-    "time": "09:00",
+    "time": "09:00 - 10:00",
     "title": "Check-In & Registrations",
     "speaker": {
       "name": "NOSK Team",
@@ -12,7 +12,7 @@
   },
   {
     "time": "10:00 - 10:15",
-    "title": "Opening Ceremony and ",
+    "title": "Opening Ceremony",
     "speaker": {
       "name": "Guests and Sponsors",
       "title": "Open Source Advocates and Supporters",
@@ -81,7 +81,7 @@
     "title": "VSCode Dev Day",
     "speaker": {
       "name": "",
-      "title": "Code with Co-pilot",
+      "title": "",
       "image": "https://via.placeholder.com/50"
     },
     "date": "Session",
@@ -114,10 +114,21 @@
     "title": "Ending Session",
     "speaker": {
       "name": "NOSK Team",
-      "title": "Winner announcement, Award & Certificate Distribution and Ending Ceremony",
+      "title": "Winner announcement, Award & Certificate Distribution, and Ending Ceremony",
       "image": "https://via.placeholder.com/50"
     },
     "date": "Ending",
     "link": "https://example.com/giveaway-results"
+  },
+  {
+    "time": "17:30 - 18:30",
+    "title": "Cake Cutting and Candle Light",
+    "speaker":{
+      "name":"Cake Cutting & Candle light Celebration",
+      "title":"",
+      "image":"",
+    },
+    "date":"Celebration",
+    "link":""
   }
 ]
