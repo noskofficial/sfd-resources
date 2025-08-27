@@ -43,6 +43,17 @@
     }
   },
   {
+    "name": "Madan Belbase",
+    "designation": "Tech Team",
+    "image": "/assets/members/Madan.JPG",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/madan-belbase/",
+      "github": "https://github.com/MadanBelbase",
+      "instagram": "https://www.instagram.com/madan_belbase/",
+      "website": "madanbelbase.com.np"
+    }
+  },
+  {
     "name": "Ishbarna Kafle",
     "designation": "Tech Team",
     "image": "/assets/members/ishbarna.jpg",
@@ -54,17 +65,7 @@
       "website": "https://www.ishbarnakafle.com.np/"
     }
   },
-  {
-    "name": "Madan Belbase",
-    "designation": "Tech Team",
-    "image": "/assets/members/Madan.JPG",
-    "socialLinks": {
-      "linkedin": "https://www.linkedin.com/in/madan-belbase/",
-      "github": "https://github.com/MadanBelbase",
-      "instagram": "https://www.instagram.com/madan_belbase/",
-      "website": "madanbelbase.com.np"
-    }
-  },
+  
   {
     "name": "Abishek Khadka",
     "designation": "Tech Team",
