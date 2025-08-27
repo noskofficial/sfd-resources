@@ -1,14 +1,198 @@
 [
   {
+    "name": "Anish Kumar Neupane",
+    "designation": "Event Lead",
+    "image": "/assets/members/Anish.jpg",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/anishkn04/",
+      "github": "https://github.com/anishkn04",
+      "instagram": "https://www.instagram.com/anishkn04/",
+      "facebook": "https://www.facebook.com/anishkn04",
+      "website": "https://anishkn.com.np/"
+    }
+  },
+  {
     "name": "Rishav Chapagain",
     "designation": "Event Lead",
     "image": "/assets/members/Rishav.png",
     "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/rishav-chapagain/",
+      "github": "https://github.com/RishavOsaurus",
+      "instagram": "https://www.instagram.com/rishavosaurus",
       "facebook": "https://www.facebook.com/rishavosaurus",
-      "instagram": "https://www.instagram.com/rishavosaurus/",
-      "linkedin": "https://www.linkedin.com/in/rishav-chapagain",
-      "github": "https://github.com/rishavosaurus",
       "website": "https://crishav.com.np"
+    }
+  },
+  {
+    "name": "Nishan Paudel",
+    "designation": "Event Manager",
+    "image": "/assets/members/Nishan.jpg",
+    "socialLinks": {
+      "linkedin": "linkedin.com/in/nishanpaudel2004",
+      "github": "github.com/Nishan2004paudel"
+    }
+  },
+  {
+    "name": "Rushab Risal",
+    "designation": "Tech Lead",
+    "image": "/assets/members/rushab.jpg",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/rushabofficials/",
+      "github": "https://github.com/RushabRisal/",
+      "website": "https://rushabrisal.com.np"
+    }
+  },
+  {
+    "name": "Ishbarna Kafle",
+    "designation": "Tech Team",
+    "image": "/assets/members/ishbarna.jpg",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/ishbarna-kafle/",
+      "github": "https://github.com/ishbarna",
+      "instagram": "https://www.instagram.com/ishbarnayy/",
+      "facebook": "https://www.facebook.com/ishbarna.kafle",
+      "website": "https://www.ishbarnakafle.com.np/"
+    }
+  },
+  {
+    "name": "Madan Belbase",
+    "designation": "Tech Team",
+    "image": "/assets/members/Madan.JPG",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/madan-belbase/",
+      "github": "https://github.com/MadanBelbase",
+      "instagram": "https://www.instagram.com/madan_belbase/",
+      "website": "madanbelbase.com.np"
+    }
+  },
+  {
+    "name": "Abishek Khadka",
+    "designation": "Tech Team",
+    "image": "/assets/members/Abishek.jpg",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/abishekkhadkaa/",
+      "github": "https://github.com/khadkaabishek",
+      "instagram": "https://www.instagram.com/abishek_khadka73/",
+      "facebook": "https://www.facebook.com/ABISHEK.KHADKA.0/",
+      "website": "http://abishek-khadka.com.np/"
+    }
+  },
+  {
+    "name": "Adarsha Pokharel",
+    "designation": "Tech Team",
+    "image": "/assets/members/Adarsh.HEIC",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/adarshapokharel",
+      "github": "https://github.com/Ad-pkh",
+      "website": "adarshapokharel.com.np"
+    }
+  },
+  {
+    "name": "Sujal Bikram Thapa",
+    "designation": "Creatives Lead",
+    "image": "/assets/members/Sujal.jpg",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/sujalbthapa/",
+      "github": "https://github.com/sujalbthapa",
+      "instagram": "https://www.instagram.com/sujalbthapa/",
+      "facebook": "https://www.facebook.com/sujalbikramthapa",
+      "website": "https://sujalbthapa.com.np/"
+    }
+  },
+  {
+    "name": "Lipsana Bharati",
+    "designation": "Creative Team",
+    "image": "/assets/members/Lipsana.jpg",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/lipsana-bharati-8961a2308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/lipsanabharati",
+      "instagram": "lipsana__"
+    }
+  },
+  {
+    "name": "Samikshya Ghimire",
+    "designation": "M & C Lead",
+    "image": "/assets/members/Samikshya.jpeg",
+    "socialLinks": {
+      "linkedin": "http://linkedin.com/in/samikshya-ghimire-2222222xx"
+    }
+  },
+  {
+    "name": "Devendra Khatri",
+    "designation": "M & C Team",
+    "image": "/assets/members/Devendra.jpg",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/devendra-khatri/",
+      "github": "https://github.com/Devendrakhatrii"
+    }
+  },
+  {
+    "name": "Asmita katwal",
+    "designation": "M & C Team",
+    "image": "/assets/members/asmitakatwal.jpg",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/asmita-katwal-3a31b4182/",
+      "github": "https://github.com/asmitakatwal",
+      "instagram": "https://www.instagram.com/_asmitakatwal/"
+    }
+  },
+  {
+    "name": "Aakriti Dahal",
+    "designation": "M & C Team",
+    "image": "/assets/members/AakritiDahal.jpeg",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/aakriti-dahal/",
+      "github": "https://github.com/aakriti-dahal",
+      "instagram": "https://www.instagram.com/___aakritii__/"
+    }
+  },
+  {
+    "name": "Gaurav Joshi",
+    "designation": "M & C Team",
+    "image": "/assets/members/Gaurav.jpg",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/gaurav-joshi-a6b884342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "github.com/gauravjoshi08x"
+    }
+  },
+  {
+    "name": "Prashanna Chand",
+    "designation": "Logistics Lead",
+    "image": "/assets/members/Prashanna.jpg",
+    "socialLinks": {
+      "linkedin": "www.linkedin.com/in/prashanna-chand",
+      "github": "https://github.com/prashannaChand",
+      "instagram": "https://www.instagram.com/prashanna_chand/",
+      "website": "https://prashannachand.com.np/"
+    }
+  },
+  {
+    "name": "Ronish Katuwal",
+    "designation": "Logistics Team",
+    "image": "/assets/members/Ronish.jpg",
+    "socialLinks": {
+      "linkedin": "https://linkedin.com/in/ronish-katuwal",
+      "github": "https://github.com/ronish-jpg",
+      "instagram": "https://www.instagram.com/iamnot_ronish"
+    }
+  },
+  {
+    "name": "Pratyush Neupane",
+    "designation": "Logistics Team",
+    "image": "/assets/members/Pratyush.png",
+    "socialLinks": {
+      "linkedin": "https://www.linkedin.com/in/pratyush-neupane-575a18341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "github": "https://github.com/PratGod2025",
+      "instagram": "https://www.instagram.com/pratyushhh.suii"
+    }
+  },
+  {
+    "name": "Safal raj gautam",
+    "designation": "Logistics Team",
+    "image": "/assets/members/Safal.jpg",
+    "socialLinks": {
+      "linkedin": "www.linkedin.com/in/safal-raj-gautam",
+      "github": "https://github.com/SafalrajGautam"
     }
   }
 ]
