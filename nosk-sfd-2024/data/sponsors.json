@@ -4,5 +4,11 @@
     "name": "Nepal College of Information Technology",
     "image": "/assets/sponsors/NCIT.jpg",
     "link": "https://ncit.edu.np/"
+  },
+    {
+    "title": "Gold Sponsor",
+    "name": "GitHub",
+    "image": "/assets/sponsors/github.svg",
+    "link": "https://github.com/"
   }
 ]
